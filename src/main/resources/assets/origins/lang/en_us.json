@@ -221,7 +221,7 @@
 
   "layer.origins.origin.name": "Origin",
   "origin.origins.empty.name": "Missing",
-  "origin.origins.empty.description": "You do not have an Origin.",
+  "origin.origins.empty.description": "You do not have a Race.",
 
   "death.attack.no_water_for_gills": "%1$s didn't manage to keep wet",
   "death.attack.no_water_for_gills.player": "%1$s didn't manage to keep wet because they were fighting %2$s",
